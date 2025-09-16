@@ -1912,6 +1912,7 @@ body {
 .cid-uWCPmLooLy .mbr-author-name {
   font-weight: bold;
   color: #232323;
+  text-align: left;
 }
 .cid-uWCPmLooLy .media-container-row {
   word-wrap: break-word;
@@ -1930,6 +1931,7 @@ body {
 }
 .cid-uWCPmLooLy .mbr-author-desc {
   color: #232323;
+  text-align: left;
 }
 .cid-uTuljZAsTo {
   padding-top: 30px;
