@@ -28,11 +28,6 @@ figure {
   margin-bottom: 0; }
 
 body {
-  -webkit-user-select: none; /* Safari */
-  -moz-user-select: none; /* Firefox */
-  -ms-user-select: none; /* IE/Edge */
-  user-select: none; /* Standard */   
-    
   color: #232323; }
 
 h1, h2, h3, h4, h5, h6,
@@ -101,11 +96,6 @@ section {
 
 .align-right {
   text-align: right; }
-
-.align-justify {
-  text-align: justify; }
-
-
 
 @media (max-width: 767px) {
   .align-left, .align-center, .align-right, .mbr-section-btn, .mbr-section-title {
@@ -198,7 +188,7 @@ figure[mbr-media-size] {
   background-color: transparent;
   border: none; }
 
-.card-box {      
+.card-box {
   width: 100%; }
 
 .card-img {
